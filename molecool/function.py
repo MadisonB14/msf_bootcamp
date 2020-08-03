@@ -1,6 +1,6 @@
 """
 function.py
-A Python package for analyzing and visualizing xyz files. For MMFSF bootcamp.
+A Python package for analyzing and visualizing xyz files. For MSF bootcamp.
 
 Handles the primary functions
 """
